@@ -12,3 +12,7 @@
   3.代理事件
   
     -(void)didClickPage:(ADCarousel *)view atIndex:(NSInteger)index
+
+---
+##效果图gif
+![image](https://github.com/CoderAlexande/ADCarousel/blob/master/1.gif) 
